@@ -1,0 +1,8 @@
+h1, p {
+  font-family: 'Uni Sans';
+  font-weight: bold;
+}
+
+* {
+  font-family: 'Uni Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
